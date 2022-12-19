@@ -1,5 +1,5 @@
 import express from "express";
-import news from "./news";
+import { news } from "./news.js";
 
 const app = express();
 const PORT = process.env.PORT || 3030;

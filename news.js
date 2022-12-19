@@ -1,4 +1,4 @@
-export default news = [
+export const news = [
   {
     title: "Why Messi's legend didn't need the World Cup",
     description:
