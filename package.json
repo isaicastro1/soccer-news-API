@@ -1,6 +1,7 @@
 {
   "scripts": {
-    "start": "node index.js"
+    "start": "node index.js",
+    "build": "babel src -d lib"
   },
   "dependencies": {
     "express": "^4.18.2"
