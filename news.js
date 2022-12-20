@@ -59,6 +59,6 @@ export const news = [
       "https://scontent.cdninstagram.com/v/t51.2885-15/319078048_880021146337948_1808153253650726111_n.jpg?stp=dst-jpg_e35_p1080x1080&_nc_ht=scontent.cdninstagram.com&_nc_cat=104&_nc_ohc=zlJ4sHAw0FYAX_Z99y1&edm=AJBgZrYBAAAA&ccb=7-5&oh=00_AfBzlj3-n3gs9ULYO_83LkKiQ2WzMIaXUcbe1S8S5e5ffA&oe=63A5D268&_nc_sid=78c662",
     source: "ESPN",
     details:
-      "https://www.espn.com/soccer/bayern-munich-gerbayern_munich/story/4829981/bayern-munichs-manuel-neuer-breaks-leg-skiingout-for-season",
+      "https://ichef.bbci.co.uk/onesport/cps/624/cpsprodpb/137D2/production/_127962897_capture.png",
   },
 ];
